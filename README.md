@@ -1,5 +1,14 @@
 ![capa github](https://github.com/gustavoalvesdev/gustavoalvesdev/blob/main/images/capa-github.png)  
 
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalvesdev&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=gustavoalvesdev&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>  
+
 ### Hi there 👋
 
 <!--

@@ -1,3 +1,5 @@
+![capa github](https://github.com/gustavoalvesdev/gustavoalvesdev/blob/main/images/capa-github.png)  
+
 ### Hi there 👋
 
 <!--

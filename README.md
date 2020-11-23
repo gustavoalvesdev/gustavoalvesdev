@@ -9,7 +9,7 @@
   </table>
 </center>  
 
-### Hi there 👋
+### Olá, pessoas, bem-vindas! Podem xeretar a vontade neste perfil ;) <img src="https://github.com/gustavoalvesdev/gustavoalvesdev/blob/main/images/hello.gif" width="30px">
 
 <!--
 **gustavoalvesdev/gustavoalvesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

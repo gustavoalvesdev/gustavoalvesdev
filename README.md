@@ -27,6 +27,12 @@ Em 2018 comecei minha faculdade de ADS na FATEC Ferraz de Vasconcelos, onde tive
 
 ---
 
+<a href="https://www.youtube.com/channel/UCnBh2xIlUUWNmdTyVMyjt3A"><img src="https://github.com/gustavoalvesdev/gustavoalvesdev/blob/main/images/youtube.png" width="24"></img></a> [YouTube](https://www.youtube.com/channel/UCnBh2xIlUUWNmdTyVMyjt3A)   
+
+<a href="https://www.instagram.com/gugaalves25"><img src="https://github.com/gustavoalvesdev/gustavoalvesdev/blob/main/images/insta.png" width="24"></img></a> [Instagram](https://www.instagram.com/gugaalves25)  
+
+<a href="https://gustavoalvesdev.com.br"><img src="https://github.com/gustavoalvesdev/gustavoalvesdev/blob/main/images/website.png" width="24"></img></a> [WebSite](https://gustavoalvesdev.com.br)  
+
 <!--
 **gustavoalvesdev/gustavoalvesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

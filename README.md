@@ -13,17 +13,11 @@
 
 ---
 
-Desde criança sempre fui apaixonado por aprender e por criar coisas novas. Sempre fui uma criança considerada criativa pelos outros. Inventava histórias, peças de teatro, histórias em quadrinhos, músicas, e o que mais minha imaginação permitisse.
+Sou formado como técnico em informática pela ETEC Ferraz de Vasconcelos e finalizando minha graduação em Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos. Desde que tive contato pela primeira vez com a Web, me apaixonei. Atualmente estou interessado em todos assuntos que permeiam a web como: segurança, protocolos, desenvolvimento back end e front end, REST, padrões de projeto e arquitetura de software.
 
-Na minha infância, eu gostava muito de desenhar, e aos poucos fui me interessando por criar animações. Foi então que conheci o Software Macromedia Flash MX, que me permitia criar animações. Meu computador na época não tinha internet, então eu aprendi a mexer no software através da própria ajuda dele, que era em inglês, então eu tinha que tentar traduzir as palavras utilizando o tradutor que vinha embutido no Microsoft Word.
+Tenho foco na linguagem PHP e em todas as tecnologias que a permeiam. Fiz e faço diversos cursos que abordam o PHP e suas melhores práticas de design e implementação de código, focado sempre em como escrever um código que não seja lido apenas por máquinas, mas também, e principalmente, por humanos (tio Tim Fowle e o Clean Code mudaram minha vida <3).
 
-Em 2011 eu comecei a fazer um curso profissionalizante de Web Design na Microlins, onde eu conheci a criação de websites e me apaixonei por HTML, CSS e JavaScript. A partir daí comecei a estudar essas tecnologias através de sites como CodeCademy e W3Schools.
-
-Em 2013, eu comecei o Curso Técnico em Informática na ETEC de Ferraz de Vasconcelos, para me aprofundar mais na área de computação.
-
-Quando finalizei o curso em 2014, voltei a trabalhar como arte finalista, que era a profissão que eu exercia desde 2007 ou 2008.
-
-Em 2018 comecei minha faculdade de ADS na FATEC Ferraz de Vasconcelos, onde tive a oportunidade de estagiar durante 8 meses como desenvolvedor atuando principalmente com a plataforma Oracle NetSuite. Atualmente continuo seguindo meus estudos em tecnologia e estou aberto a oportunidades de trabalho.
+Atualmente, estou aberto a oportunidades para desenvolvedor web PHP, em times onde eu possa desenvolver minhas habilidades e encarar desafios que me façam melhorar ainda mais a forma como compreendo e soluciono problemas e escrevo código. 
 
 ---
 

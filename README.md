@@ -40,12 +40,11 @@
 
 ### 📊 Minhas Skills (em evolução)
 
-| Tecnologia | Nivel |
-|------------|-------|
-| Java / Spring Boot | ![Java](https://progress-bar.dev/70/?title=Avançando) |
-| PHP / Laravel | ![PHP](https://progress-bar.dev/65/?title=Avançando) |
-| MySQL | ![MySQL](https://progress-bar.dev/80/?title=Bom) |
-| Git & GitHub | ![Git](https://progress-bar.dev/85/?title=Confiante) |
+- ![Java](https://img.shields.io/badge/Java-Avançando-orange?style=for-the-badge&logo=openjdk)
+- ![Spring](https://img.shields.io/badge/SpringBoot-Em%20Prática-brightgreen?style=for-the-badge&logo=springboot)
+- ![PHP](https://img.shields.io/badge/PHP-Intermediário-blue?style=for-the-badge&logo=php)
+- ![Laravel](https://img.shields.io/badge/Laravel-Aprendendo-red?style=for-the-badge&logo=laravel)
+- ![MySQL](https://img.shields.io/badge/MySQL-Confiante-4479A1?style=for-the-badge&logo=mysql)
 
 ---
 

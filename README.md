@@ -19,14 +19,15 @@
 ---
 
 ### ⭐ Projetos em destaque
-
+ 
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
-| **spring-rest-api** | API REST em Java com Spring Boot e MySQL, com frontend HTML/CSS/JS. | `Java` • `Spring Boot` • `MySQL` |
-| **spring-fundamentos-treinaweb** | Estudos do curso de Spring na Treinaweb. | `Java` • `Spring` |
-| **spring-treinaweb-thymeleaf** | Projeto com templates Thymeleaf. | `Java` • `Spring` • `Thymeleaf` |
+| **php-c-extension** | PoC de extensão PHP escrita em C. | `PHP` • `Shell` • `C` |
 | **struktphp** | Framework MVC leve em PHP. | `PHP` • `MVC` • `MySQL` • `Bootstrap` |
 | **laravel-notes-api** | API de anotações feita em Laravel. | `PHP` • `Laravel` • `Blade` |
+| **spring-rest-api** | API REST em Java com Spring Boot e MySQL, com frontend HTML/CSS/JS. | `Java` • `Spring Boot` • `MySQL` |
+| **spring-treinaweb-thymeleaf** | Projeto com templates Thymeleaf. | `Java` • `Spring` • `Thymeleaf` |
+
 
 ---
 

@@ -26,7 +26,7 @@
 | **struktphp** | Framework MVC leve em PHP. | `PHP` • `MVC` • `MySQL` • `Bootstrap` |
 | **laravel-notes-api** | API de anotações feita em Laravel. | `PHP` • `Laravel` • `Blade` |
 | **phpexcel** | Biblioteca PHP para criar e manipular arquivos Excel | `PHP` • `Composer` |
-| **spring-treinaweb-thymeleaf** | Projeto com templates Thymeleaf. | `Java` • `Spring` • `Thymeleaf` |
+| **sistema-gestao-php** | Este é um sistema de gestão em PHP MVC e MySQL | `PHP` • `MVC` • `MySQL` |
 
 
 ---
@@ -41,8 +41,6 @@
 
 ### 📊 Minhas Skills (em evolução)
 
-- ![Java](https://img.shields.io/badge/Java-Avançando-orange?style=for-the-badge&logo=openjdk)
-- ![Spring](https://img.shields.io/badge/SpringBoot-Em%20Prática-brightgreen?style=for-the-badge&logo=springboot)
 - ![PHP](https://img.shields.io/badge/PHP-Intermediário-blue?style=for-the-badge&logo=php)
 - ![Laravel](https://img.shields.io/badge/Laravel-Aprendendo-red?style=for-the-badge&logo=laravel)
 - ![MySQL](https://img.shields.io/badge/MySQL-Confiante-4479A1?style=for-the-badge&logo=mysql)
